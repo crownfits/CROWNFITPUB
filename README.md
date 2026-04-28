@@ -1,2 +1,2 @@
 # CROWNFITPUB
-# Public projects
+Public projects
